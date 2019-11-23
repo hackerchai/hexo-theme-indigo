@@ -19,26 +19,26 @@ menu:
     text: Categories
     url: /categories
   github:
-    url: https://github.com/yscoder
+    url: https://github.com/hackerchai
     target: _blank
   weibo:
-    url: http://www.weibo.com/ysweb
+    url: http://www.weibo.com/hackerchai
     target: _blank
   link:
-    text: 测试
-    url: /custom
+    text: 友情链接
+    url: /friend-list
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: /images/avatar.jpg
 # avatar link
-avatar_link: /
+avatar_link: https://hackerchai.com
 # 头像背景图
 brand: /img/brand.jpg
 # favicon
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: hackerchai@member.fsf.org
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -63,9 +63,9 @@ share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: 谢谢大爷~
-  wechat: /img/wechat.jpg     #微信，关闭设为 false
-  alipay: /img/alipay.jpg     #支付宝，关闭设为 false
+  title: false
+  wechat: false     #微信，关闭设为 false
+  alipay: false    #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
