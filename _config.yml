@@ -15,7 +15,7 @@ menu:
     url: /archives
   tags:
      text: 标签
-    url: /tags
+     url:  /tags
   th-list:
     text: 归档
     url: /categories
@@ -111,7 +111,7 @@ disqus_shortname: false
 uyan_uid: false
 
 # use gitalk://github.com/gitalk/gitalk
-gitalk: false
+gitalk: 
   owner: hackerchai
   repo: blog
   client_id: cba27a7f5074728231a2 
