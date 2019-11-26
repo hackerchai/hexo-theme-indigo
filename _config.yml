@@ -141,4 +141,4 @@ title_change:
   leave: 您的浏览器崩溃了！
 
 # 设置为 true 发布后将使用 unpkg cdn
-cdn: false
+cdn: true
